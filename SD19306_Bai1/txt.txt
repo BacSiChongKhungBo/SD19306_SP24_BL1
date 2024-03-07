@@ -1,0 +1,35 @@
+﻿- Windows form : khác hoàn toàn Console
+- Tích cực: kéo thả rất nhiều, ko cần code
+- Tiêu: dễ lỗi, một khi lỗi thì cực khó sửa
+
+-- Chú ý:
+-- 1.không click đúp ở trên màn hình
+-- 2.Nếu vi phạm luật số 1, tốt nhất là ko làm gì và cầu nguyện
+-- 3.có quy tắc đặt tên cho biến
+
+-- công cụ cần cho lập trình winform
+-- 1.toolbox: thanh công cụ View
+-- 2.Properties: khi chọn vào biến trên màn hình
+
+
+-- các biến:
+-- 1.label: text trên màn hình
+     + text: sửa chữ hiển thị
+-- 2.textbox: dùng để nhập, hiển thị
+   3.richtextbox: dùng để nhập, hiển thị nhưng lực hơn
+   4.radiobutton: dùng để chọn những lựa chọn cứng
+   5.checkbox: dùng để multiple choice
+
+   -- properties: Text: hiển thị lên màn hình
+                  name
+-- QUY TẮC ĐẶT TÊN:
+textbox:        txt_<tên> (VD: txt_MSV, txt_hoten)
+richtextbox:    rtxt_<tên>
+radiobutton:    rbtn_<tên>
+checkbox:       cbx_<tên>
+button:         btn_<tên>
+datagridview:   dtgView
+
+datepicker:     dpk
+combobox:       cmbx_<tên>
+label:          lbl_<tên>
